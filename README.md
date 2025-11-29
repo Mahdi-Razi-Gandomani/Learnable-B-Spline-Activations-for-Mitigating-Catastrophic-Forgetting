@@ -163,7 +163,7 @@ This table quantifies the final results:
 
 
 <p align="center">
-  <img src="results/visualizations/average_accuracy_comparison.png" alt="average_accuracy_comparison">
+  <img src="results/visualizations/average_accuracy_comparison.png" alt="average_accuracy_comparison" width="75%">
 </p>
 
 
