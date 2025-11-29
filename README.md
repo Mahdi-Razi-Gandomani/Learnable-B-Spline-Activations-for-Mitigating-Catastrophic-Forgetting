@@ -168,9 +168,7 @@ This table quantifies the final results:
 
 
 
-This plot shows average accuracy over the 10-task Permuted MNIST sequence:
-
-The B-spline activation (purple line) demonstrates **substantially better retention** of past knowledge compared to all fixed activations. While ReLU, tanh, GELU, and PReLU all show severe degradation (dropping to 38-64% final accuracy), B-spline maintains approximately 74% accuracy with a much more gradual decline.
+The B-spline activation (purple line) demonstrates **substantially better retention** of past knowledge compared to all other activations. While ReLU, tanh, GELU, and PReLU all show severe degradation (dropping to 38-64% final accuracy), B-spline maintains approximately 74% accuracy with a much more gradual decline.
 
 
 
